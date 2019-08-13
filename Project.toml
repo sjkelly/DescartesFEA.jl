@@ -3,6 +3,9 @@ uuid = "1f2a64e4-9227-11e9-3bf5-375dec95e411"
 authors = ["Steve Kelly <kd2cca@gmail.com>"]
 version = "0.1.0"
 
+[deps]
+TetGen = "c5d3f3f7-f850-59f6-8a2e-ffc6dc1317ea"
+
 [compat]
 julia = "1"
 
